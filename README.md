@@ -22,11 +22,11 @@ The simulated data set is generated using np.random.normal and np.random.uniform
 
 ### Installation
 
-To run the code for the existing datasets, make sure the files are in the same folder and run the commands.
-	
-	- *python real_world_data.py* to run the algorithm on the Spam dataset.
-	- *python simulated_data.py* to run the algorithm on the simulated dataset.
-	- *python compare.py* to compare the output from scikit learn and our code for the spam dataset.
+To run the code for the existing datasets, make sure the files are in the same folder and run the commands:
+
+ * *python real_world_data.py* to run the algorithm on the Spam dataset.
+ * *python simulated_data.py* to run the algorithm on the simulated dataset.
+ * *python compare.py* to compare the output from scikit learn and our code for the spam dataset.
 
 
 
