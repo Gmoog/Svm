@@ -1,4 +1,4 @@
-## Python implementation of Linear Support Vector Machine with Squared Hinge Loss
+## Python implementation of Linear SVM with Squared Hinge Loss
 
 We look at how to implement the Linear Support Vector Machine with a squared hinge loss in python.
 
